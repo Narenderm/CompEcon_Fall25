@@ -2,7 +2,11 @@
 This module of the course covers the theory and computation of general equilibrium overlapping generations models.
 
 
+<<<<<<< HEAD
 ##1 . Problem Set
+=======
+## 1 . Problem Set
+>>>>>>> 8ddfdb0df7fcebf4389079ee8e0ff61f53053ae3
 * [Problem Set 9](https://github.com/jdebacker/CompEcon_Fall25/blob/main/OverlappingGenerations/PS9.pdf)
 
 ## 2. References
